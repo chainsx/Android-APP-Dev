@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">chattest</string>
+    <string name="prompt_code">请输入4到8位数字</string>
+    <string name="action_in">进入聊天室</string>
+</resources>
